@@ -4,7 +4,7 @@ Hi 👋 My name is Maria Gandica
 Web Developer and Designer UX-UI
 --------------------------------
 
-I am a 19-year-old Venezuelan front-end developer. I have been passionate about technology and design since I was a child. I love creating innovative web experiences that make people's lives easier and more enjoyable.
+
 
 * 🌍  I'm based in Venezuela
 * ✉️  You can contact me at [mariavgg.2004@gmail.com](mailto:mariavgg.2004@gmail.com)
