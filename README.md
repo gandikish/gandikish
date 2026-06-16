@@ -1,7 +1,8 @@
 Hi 👋 My name is Maria Gandica
 ==============================
 
-Web Developer and Designer UX-UI
+Web Developer
+
 --------------------------------
 
 
